@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @row-hit-wiz
-- 👀 I’m interested in C, C++, Python, Web Developement
-- 🌱 I’m currently learning Fullstack developement
+- 👀 I’m interested in Frontend Web Developement
+- 🌱 I’m currently learning MERN Stack developement
 - 📫 How to reach me on https://www.linkedin.com/in/rohit-narulkar-571a98176/
 
 <!---
