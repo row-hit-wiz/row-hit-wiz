@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Surendra Narulkar</h1>
-<h3 align="center">A passionate frontend developer from Goa, India</h3>
+<h3 align="center">A passionate fullstack developer from Goa, India</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on MERN stack development<br>🤝 I’m looking for help with Full stack development<br>🌱 I’m currently learning Next.js<br>💬 Ask me about HTML, CSS, React Js<br>⚡ Fun fact about me is - I am huge Potterhead
